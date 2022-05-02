@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Carson I would appreciate a big curve, would make this class so much better
 
 Dominic wuz here
 
+=======
+Desmond was here
+>>>>>>> 18cfbfc423ff34b962e19bdede29bbf9fa6f9aba
